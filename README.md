@@ -2,7 +2,7 @@
 
 This Power BI project delivers a comprehensive business intelligence solution for a full-cycle supply chain system. It leverages a  dataset containing information on product types, SKUs, pricing, stock levels, manufacturing, shipping, suppliers, inspection results, customer demographics, and sales.
 
-## 🔧 Tools & Technologies
+##  Tools & Technologies
 - **Power BI Desktop**
 - Power Query (ETL & data transformation)
 - DAX (Advanced KPI calculations)
@@ -36,7 +36,7 @@ This Power BI project delivers a comprehensive business intelligence solution fo
 
 ---
 
-### 🔗 2. Supplier Performance Dashboard
+###  2. Supplier Performance Dashboard
 - Supplier Lead Time by Location and Supplier
 - Defect Rate by Supplier
 - Top 5 Best-Selling Products by Supplier
@@ -87,7 +87,7 @@ This Power BI project delivers a comprehensive business intelligence solution fo
 
 ---
 
-## 📈 Business Problems Addressed
+##  Business Problems Addressed
 - High supplier lead time and quality inconsistencies
 - Manufacturing inefficiencies and cost optimization
 - Shipping delays and carrier performance

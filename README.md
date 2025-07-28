@@ -14,7 +14,7 @@ This Power BI project delivers a comprehensive business intelligence solution fo
 ---
 
 
-## 📁 Dashboards Overview
+##  Dashboards Overview
 
 ![Image Alt](https://github.com/IT21272004/Advanced-Supply-Chain-Data-analysis/blob/25ca939d62283dd00ad7631dba641ce43a3019a6/Overview.jpeg)
 ![Image Alt](https://github.com/IT21272004/Advanced-Supply-Chain-Data-analysis/blob/25ca939d62283dd00ad7631dba641ce43a3019a6/Manufacturing%20Efficiency.jpeg)
